@@ -6,3 +6,4 @@ dist
 *.iml
 .idea
 venv
+*.egg-info

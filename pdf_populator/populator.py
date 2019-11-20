@@ -53,6 +53,8 @@ class Populator():
 
                 self._write_pdf(template_path, output_path, file)
 
+            os.remove(tmp_file)
+
     def _write_pdf(self, input_pdf_path, output_pdf_path, data_dict):
         template_pdf = pdfrw.PdfReader(input_pdf_path)
         annotations = []
