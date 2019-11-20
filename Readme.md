@@ -1,4 +1,8 @@
-# Payslip data generator
+# PDF populator
+
+How to Populate Fillable PDF's with Python using pdfrw
+
+- [pdfrw](https://github.com/pmaupin/pdfrw)
 
 ## Setup
 
