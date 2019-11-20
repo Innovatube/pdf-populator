@@ -3,9 +3,10 @@
 How to Populate Fillable PDF's with Python using pdfrw
 
 - [pdfrw](https://github.com/pmaupin/pdfrw)
+- Download new version from [Releases](https://github.com/Innovatube/pdf-populator/releases)
 
 ```bash
-pip3 install --user --upgrade ../pdf-populate/dist/pdf_populator-0.1.0.tar.gz
+pip3 install --user --upgrade pdf_populator-0.1.0.tar.gz
 ```
 
 ## Setup for dev
